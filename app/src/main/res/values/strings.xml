@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">eServices</string>
+
+    <string name="no_internet">تأكد من الاتصال بالانترنت</string>
+    <string name="something_went_wrong">حدث خطأ، برجاء المحاولة لاحقا</string>
+    <string name="all_fields_required">جميع الحقول مطلوبة</string>
+
+</resources>
